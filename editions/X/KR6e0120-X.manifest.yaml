@@ -1,0 +1,506 @@
+canonical_identifier: bkk:krp/KR6e0120/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0120/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴懸談會玄記
+  identifiers:
+    krp: KR6e0120
+    cbeta: X08n0236
+    cbeta_old_id: X08n0236
+    authorityid: CA0001451
+    json_key: X0236
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X08/X08n0236.xml
+    old_id: X08n0236
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0120_000-X.yaml, hash: 'sha256:a6da98b5e9bb70153cecb2fa22b8dffbb86bbe836f4119486e048615f7dff717'}
+  - {seq: 1, filename: KR6e0120_001-X.yaml, hash: 'sha256:09b1bf99b205a92b771c9e2fdc41e9ad5f60266d4df0587ff53d41b22f36c04d'}
+  - {seq: 2, filename: KR6e0120_002-X.yaml, hash: 'sha256:e5bc72aa2653a7f6528ff9883834df96a6667d424d860359fdc0e4ff4e9f1f89'}
+  - {seq: 3, filename: KR6e0120_003-X.yaml, hash: 'sha256:35b78d34caf33cbbf0b5e5afd57b4b6c92d4f213d3f7a4fd8fdeb8109658e955'}
+  - {seq: 4, filename: KR6e0120_004-X.yaml, hash: 'sha256:8bd2220ec005e31530c9bcf7fdefedb8d001bd81db67581bb3a1e188965382b8'}
+  - {seq: 5, filename: KR6e0120_005-X.yaml, hash: 'sha256:047bb78df3b2022b29a180e7a430463cb3d68785a5b1bab0a1744923661b59e1'}
+  - {seq: 6, filename: KR6e0120_006-X.yaml, hash: 'sha256:5d566791a2bfb402b1db942b7c9010d671eb19bf5154157009bac5a04cc0e764'}
+  - {seq: 7, filename: KR6e0120_007-X.yaml, hash: 'sha256:8f65e4d35cb5cd146dd573eb53b4317c6b6069c09a18a977d90daad62aa3b2c8'}
+  - {seq: 8, filename: KR6e0120_008-X.yaml, hash: 'sha256:e256d1c7e9e6cda3ca4235fee3eb50209a195d5cfac41be8fedbfd7295ffed40'}
+  - {seq: 9, filename: KR6e0120_009-X.yaml, hash: 'sha256:365ea66da2d5d39be01f35f9c0e98ec016d7d66bb06780c63f0b24564db6da80'}
+  - {seq: 10, filename: KR6e0120_010-X.yaml, hash: 'sha256:dfd26a50814a0980e4a93fcd44cc31c5851f10d109420362dcce816a9a43ef49'}
+  - {seq: 11, filename: KR6e0120_011-X.yaml, hash: 'sha256:0ec02a10d6ad2c02baa045860a0e45cfb9301233cc37a3c747f106f611853976'}
+  - {seq: 12, filename: KR6e0120_012-X.yaml, hash: 'sha256:3c44b315e8b4db12b5bbdb480b02d8dbe84343b64220c514bd1a2bed633cd6af'}
+  - {seq: 13, filename: KR6e0120_013-X.yaml, hash: 'sha256:caa4408f449adc7e7d0fa7abe2034c4ecbb31279b44f58c8ffa2eba3d41c338e'}
+  - {seq: 14, filename: KR6e0120_014-X.yaml, hash: 'sha256:b7d42b1ff8cf88dbbffc95b21e296a20676a63583e23aa32c08ff1a57a65429b'}
+  - {seq: 15, filename: KR6e0120_015-X.yaml, hash: 'sha256:bdd89082d9a4e07960f051d987b423566839303b741c646ab285a953cc25a960'}
+  - {seq: 16, filename: KR6e0120_016-X.yaml, hash: 'sha256:cbd1649790e00451eb51a5fb292175e8b110f76b95024c2e29430c4cf92c1bce'}
+  - {seq: 17, filename: KR6e0120_017-X.yaml, hash: 'sha256:b28ec8f349a2c18c87baca5c65a4c80395013b10f5c60c906f80556ecac445ca'}
+  - {seq: 18, filename: KR6e0120_018-X.yaml, hash: 'sha256:82a5d92f2a39ff9e507224c18f1862405a0963a0911e415ad78c0d5d2a2eae55'}
+  - {seq: 19, filename: KR6e0120_019-X.yaml, hash: 'sha256:e06396257fa94c27ee8b973a030e8f91b2e9f45267afdd85b2858db8865c1386'}
+  - {seq: 20, filename: KR6e0120_020-X.yaml, hash: 'sha256:a9c97eaeb7d07028bef0d8bf84c648356a1e4e14e9095750a4008927ffdc7ef7'}
+  - {seq: 21, filename: KR6e0120_021-X.yaml, hash: 'sha256:1c5205ae787c5a93ef3d75f60cab15184177c6861f64c5130df240d8b2182ffc'}
+  - {seq: 22, filename: KR6e0120_022-X.yaml, hash: 'sha256:8da30336c5fda0955f5b2b9655253d305c4103f59e4b51f2f04ce91ad5b63a27'}
+  - {seq: 23, filename: KR6e0120_023-X.yaml, hash: 'sha256:cc760359f1f8b98901294f73820a33b60d984e95d40793c31b2ba8dee5bb576c'}
+  - {seq: 24, filename: KR6e0120_024-X.yaml, hash: 'sha256:2185297e04814c4476665e4d3f29a818a2028dc711a80cd4ed62ef176b415ad0'}
+  - {seq: 25, filename: KR6e0120_025-X.yaml, hash: 'sha256:293c2066588ee3f17893e0d6e9129adb4bdf9bb5003afe1a9aa48caa41a8d53e'}
+  - {seq: 26, filename: KR6e0120_026-X.yaml, hash: 'sha256:fe5c7c53a57b447959f5ee8c7865389afca0e6e4ae33dddce0b2f9f2a20984b7'}
+  - {seq: 27, filename: KR6e0120_027-X.yaml, hash: 'sha256:8a349bc53054ee9ee3bf585b1c619224aca5386a67c423249aee3b584d35b8a3'}
+  - {seq: 28, filename: KR6e0120_028-X.yaml, hash: 'sha256:3de95b1172bb0d35a0d505d39e2098fe80f67d11d871c601a9e57b4971bc6e67'}
+  - {seq: 29, filename: KR6e0120_029-X.yaml, hash: 'sha256:1d0d2168b4eb400358f428958cbf476ac105da41be74b0d59d699aa2e0bbb6cd'}
+  - {seq: 30, filename: KR6e0120_030-X.yaml, hash: 'sha256:65506c0c240e11f37e05f6f485b9c4b94ad161585297d5bc549e002986f5dfae'}
+  - {seq: 31, filename: KR6e0120_031-X.yaml, hash: 'sha256:5d28fba7cbb4dcce306c2179b8258e95ae0305cec8b815bd9c1043661cf6f3c3'}
+  - {seq: 32, filename: KR6e0120_032-X.yaml, hash: 'sha256:6a8910a50d9cacb27ab93cc674b4336cf21ec6475c76355cc85f374fa7a50f08'}
+  - {seq: 33, filename: KR6e0120_033-X.yaml, hash: 'sha256:ce599547e9f5b9a225836e743783cc684e6dcce087ce4049a36e82a68b11f0f9'}
+  - {seq: 34, filename: KR6e0120_034-X.yaml, hash: 'sha256:16ba7cba9c5b83e8a5a8dfd91ce52b56476280bbf5b647def108d428622cfb2d'}
+  - {seq: 35, filename: KR6e0120_035-X.yaml, hash: 'sha256:a0fde0d53c868451cbbdcb2b44704368714d25be393ace103d925d7776be72a3'}
+  - {seq: 36, filename: KR6e0120_036-X.yaml, hash: 'sha256:c812c37dc1a249893fbae0bf002de86d93ec2d81abab0222c106024c4ef83a5c'}
+  - {seq: 37, filename: KR6e0120_037-X.yaml, hash: 'sha256:2a5b1299d817685b1814e24b02151283793bbc30815e3d0c48edf2306dc9a095'}
+  - {seq: 38, filename: KR6e0120_038-X.yaml, hash: 'sha256:9f10fc0ae40b6542ec6a9e9e878495107db566b7b6584ea428c13c455195f274'}
+  - {seq: 39, filename: KR6e0120_039-X.yaml, hash: 'sha256:64c04519424124c7dab0b13198465fd73094685be565babfa8618098644ad563'}
+  - {seq: 40, filename: KR6e0120_040-X.yaml, hash: 'sha256:6b2c8c45e31bdf9f3a481d973c1203ea0953bfda35bdd137311cb58a9214d49d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0120_000-X.markers.yaml, hash: 'sha256:a0f933fa0f0c6f8f7b3c8db0972e3d018171bf4d5288865a342e47a301a41f8a'}
+  - {seq: 1, role: markers, filename: assets/KR6e0120_001-X.markers.yaml, hash: 'sha256:0c4d0d0eacb04d046671e24bf9d605920f68a681c6df019df4e5cd19d7206adf'}
+  - {seq: 2, role: markers, filename: assets/KR6e0120_002-X.markers.yaml, hash: 'sha256:4d9e968e41a3a2e34ae40a41c656a627fbe8dad4e2a292dafa35d19c9ba9458d'}
+  - {seq: 3, role: markers, filename: assets/KR6e0120_003-X.markers.yaml, hash: 'sha256:a71f3539f81ccc3a8de854d3adcfa12ec6c1eaf9f91e076d43a6e0fce5cfe70f'}
+  - {seq: 4, role: markers, filename: assets/KR6e0120_004-X.markers.yaml, hash: 'sha256:4cb4dc06c9be935eaea5b769392a5fd6e6ca1aac7e977650c5f05e91b7b69ee9'}
+  - {seq: 5, role: markers, filename: assets/KR6e0120_005-X.markers.yaml, hash: 'sha256:67f4d1a1fcc27c7fb8f2463556228c6f072c631e0010a25c832cad2aca3876a4'}
+  - {seq: 6, role: markers, filename: assets/KR6e0120_006-X.markers.yaml, hash: 'sha256:1449dd0959022d07abec96ee1c642fa2cdc159c9f7d578e8e69b005f65a52deb'}
+  - {seq: 7, role: markers, filename: assets/KR6e0120_007-X.markers.yaml, hash: 'sha256:acdc66dabdc742714b3fd65961377fe52e5bf2e65b4772b5686a5ec74b7ca173'}
+  - {seq: 8, role: markers, filename: assets/KR6e0120_008-X.markers.yaml, hash: 'sha256:63270308e0674331fc1624e1485badf970f48105b18c20357c3f41c0404df522'}
+  - {seq: 9, role: markers, filename: assets/KR6e0120_009-X.markers.yaml, hash: 'sha256:982ada0243005707b99189f543d8ed4b337f9f85f3c66ba8148f355b5723f335'}
+  - {seq: 10, role: markers, filename: assets/KR6e0120_010-X.markers.yaml, hash: 'sha256:d1d5e70d16eb844c78d4916334a5adc0976f0ad336a8095c0b76e5835ea554fd'}
+  - {seq: 11, role: markers, filename: assets/KR6e0120_011-X.markers.yaml, hash: 'sha256:72ec8265f8395c2d000c7406947c48f23d3eaf660c9902b5716d3a8f0787b1b7'}
+  - {seq: 12, role: markers, filename: assets/KR6e0120_012-X.markers.yaml, hash: 'sha256:73fcd915896e0fe2c4f24a68adbc6476994b0f177cf74eec2b2d3279c12abbac'}
+  - {seq: 13, role: markers, filename: assets/KR6e0120_013-X.markers.yaml, hash: 'sha256:64197ab70bd3495d6a64b45f5d781645d05a8c7a697ec371c40b56a337868bf0'}
+  - {seq: 14, role: markers, filename: assets/KR6e0120_014-X.markers.yaml, hash: 'sha256:531eb8e1e284dc95888f3d3abd27f18ddadebe3bb268428536d41334ef922b91'}
+  - {seq: 15, role: markers, filename: assets/KR6e0120_015-X.markers.yaml, hash: 'sha256:97e399cf56de4c9d1b5b218bfffb328207eceb91d4c50589f25f71aac69eb613'}
+  - {seq: 16, role: markers, filename: assets/KR6e0120_016-X.markers.yaml, hash: 'sha256:1f32751ef11b9bcb3c417ca5abc61396ab61ee8120d15a2449d37c85567a2203'}
+  - {seq: 17, role: markers, filename: assets/KR6e0120_017-X.markers.yaml, hash: 'sha256:6a440c5715cfa97aebaa3f2f6beddd28dabf5dd6f3f84e61b39d68ae405b34aa'}
+  - {seq: 18, role: markers, filename: assets/KR6e0120_018-X.markers.yaml, hash: 'sha256:41b9269faaa495e6de506366475d77804e6754e2ceef21a76ee0bad0921dd195'}
+  - {seq: 19, role: markers, filename: assets/KR6e0120_019-X.markers.yaml, hash: 'sha256:adf6e5a9f1d8bbd681479588c623da9063c33ba8c780be97cdbf7f6cc3cf9a94'}
+  - {seq: 20, role: markers, filename: assets/KR6e0120_020-X.markers.yaml, hash: 'sha256:c57bbb78fd0effcb5846aa9f4ebb8ff46c4813c5d6a26454f13cd5fd200fd9b6'}
+  - {seq: 21, role: markers, filename: assets/KR6e0120_021-X.markers.yaml, hash: 'sha256:d46328dd32eb54ab22c5b130a59d9996ef7d94ca582fa1892ce7fe8810cd6564'}
+  - {seq: 22, role: markers, filename: assets/KR6e0120_022-X.markers.yaml, hash: 'sha256:a231cd7b761e3fccc4e115e5ae1c5ef6553718d182ac2e78f2c4b6e3ef42fd6d'}
+  - {seq: 23, role: markers, filename: assets/KR6e0120_023-X.markers.yaml, hash: 'sha256:6d23983a6743f38b2ce4ef0a65eedb41e76f832df66a4c47c8e3cd1f345d3988'}
+  - {seq: 24, role: markers, filename: assets/KR6e0120_024-X.markers.yaml, hash: 'sha256:ffc83037e572119b5f49878124716429ecd23745c3e172b408cc5b1cc77be148'}
+  - {seq: 25, role: markers, filename: assets/KR6e0120_025-X.markers.yaml, hash: 'sha256:b88f01f7e5a50e7f1524399601803466fadfd0c37ee107e5d4bec68a936b42fe'}
+  - {seq: 26, role: markers, filename: assets/KR6e0120_026-X.markers.yaml, hash: 'sha256:579c38359dc5014a1d95bc55c47f4801f61ef5ec20ed0de72271f6f009df42f3'}
+  - {seq: 27, role: markers, filename: assets/KR6e0120_027-X.markers.yaml, hash: 'sha256:68de838a3c6e6b101995aec402b62a6e4a82ad83a26026fb5e67868c7a784a42'}
+  - {seq: 28, role: markers, filename: assets/KR6e0120_028-X.markers.yaml, hash: 'sha256:98736aa809096f33646915a4c214df2f282abd0322c598d79ad752d7fdc7585b'}
+  - {seq: 29, role: markers, filename: assets/KR6e0120_029-X.markers.yaml, hash: 'sha256:0238e7511e57807077e5bcfc109060ea302f4e671f328d4bb9c82f83bd78db22'}
+  - {seq: 30, role: markers, filename: assets/KR6e0120_030-X.markers.yaml, hash: 'sha256:1899202431b26266ba5870d7588d759f8b92d2190296f7cdb419bd0fa48cb3c0'}
+  - {seq: 31, role: markers, filename: assets/KR6e0120_031-X.markers.yaml, hash: 'sha256:de96b2c416988799ebaeb9415d5fb1cf72c375a01aa2b9d89af73fc5669a21ad'}
+  - {seq: 32, role: markers, filename: assets/KR6e0120_032-X.markers.yaml, hash: 'sha256:d6f2d84159e3b6f8780d1102804b08d63579fa143c80ee3355fcdc7f3d99888e'}
+  - {seq: 33, role: markers, filename: assets/KR6e0120_033-X.markers.yaml, hash: 'sha256:6eb484c16409730dbca9335d669dcfafc4c2d083fa115030bac762fe36fa5f73'}
+  - {seq: 34, role: markers, filename: assets/KR6e0120_034-X.markers.yaml, hash: 'sha256:a8a06a206b3d8a26ae96f0fc25550064d87ed83005d151db57f6b7604717b544'}
+  - {seq: 35, role: markers, filename: assets/KR6e0120_035-X.markers.yaml, hash: 'sha256:ad4183c8bcf59406e1bcdcada936abb0088393df608976fa2fefcb174f566410'}
+  - {seq: 36, role: markers, filename: assets/KR6e0120_036-X.markers.yaml, hash: 'sha256:27573e189eabe91f04c14a9792f6695950679511a1f44a8882f5c88c7d7c1e17'}
+  - {seq: 37, role: markers, filename: assets/KR6e0120_037-X.markers.yaml, hash: 'sha256:cd2cf1448c7dc742227937e784646fdfcc9e35868f17f7a8b5e375cf9fbf4756'}
+  - {seq: 38, role: markers, filename: assets/KR6e0120_038-X.markers.yaml, hash: 'sha256:aba8339856e622d832ff7fd5b5ba70a82813bb19f2a1304e7ad47fcf6be3d5d7'}
+  - {seq: 39, role: markers, filename: assets/KR6e0120_039-X.markers.yaml, hash: 'sha256:b325805bfeb13ed80aed07384fea2dd725666c7ccd705975ef42add7a7142099'}
+  - {seq: 40, role: markers, filename: assets/KR6e0120_040-X.markers.yaml, hash: 'sha256:43da16426beb576b3fbe382fd6c65170652ab93b2a1093b9740afadbea3d2269'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0120_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9183
+  label: 華嚴懸談會玄記卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0120_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 9070
+  label: 華嚴懸談會玄記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0120_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 9786
+  label: 華嚴懸談會玄記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0120_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 9788
+  label: 華嚴懸談會玄記卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0120_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 8615
+  label: 華嚴懸談會玄記卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0120_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 9713
+  label: 華嚴懸談會玄記卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0120_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 11054
+  label: 華嚴懸談會玄記卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0120_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 8742
+  label: 華嚴懸談會玄記卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0120_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 9566
+  label: 華嚴懸談會玄記卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6e0120_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 10050
+  label: 華嚴懸談會玄記卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6e0120_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 10464
+  label: 華嚴懸談會玄記卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6e0120_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 9665
+  label: 華嚴懸談會玄記卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6e0120_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 12687
+  label: 華嚴懸談會玄記卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6e0120_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 9224
+  label: 華嚴懸談會玄記卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6e0120_X_015-juan-start
+    span:
+    - body
+    - 0
+    - 16971
+  label: 華嚴懸談會玄記卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6e0120_X_016-juan-start
+    span:
+    - body
+    - 0
+    - 16145
+  label: 華嚴懸談會玄記卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6e0120_X_017-juan-start
+    span:
+    - body
+    - 0
+    - 12502
+  label: 華嚴懸談會玄記卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6e0120_X_018-juan-start
+    span:
+    - body
+    - 0
+    - 9321
+  label: 華嚴懸談會玄記卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6e0120_X_019-juan-start
+    span:
+    - body
+    - 0
+    - 10224
+  label: 華嚴懸談會玄記卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6e0120_X_020-juan-start
+    span:
+    - body
+    - 0
+    - 13165
+  label: 華嚴懸談會玄記卷第二十
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6e0120_X_021-juan-start
+    span:
+    - body
+    - 0
+    - 11883
+  label: 華嚴懸談會玄記卷第二十一
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6e0120_X_022-juan-start
+    span:
+    - body
+    - 0
+    - 9619
+  label: 華嚴懸談會玄記卷第二十二
+  type: juan
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6e0120_X_023-juan-start
+    span:
+    - body
+    - 0
+    - 8900
+  label: 華嚴懸談會玄記卷第二十三
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6e0120_X_024-juan-start
+    span:
+    - body
+    - 0
+    - 10832
+  label: 華嚴懸談會玄記卷第二十四
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6e0120_X_025-juan-start
+    span:
+    - body
+    - 0
+    - 9308
+  label: 華嚴懸談會玄記卷第二十五
+  type: juan
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6e0120_X_026-juan-start
+    span:
+    - body
+    - 0
+    - 10150
+  label: 華嚴懸談會玄記卷第二十六
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6e0120_X_027-juan-start
+    span:
+    - body
+    - 0
+    - 9220
+  label: 華嚴懸談會玄記卷第二十七
+  type: juan
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6e0120_X_028-juan-start
+    span:
+    - body
+    - 0
+    - 9687
+  label: 華嚴懸談會玄記卷第二十八
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6e0120_X_029-juan-start
+    span:
+    - body
+    - 0
+    - 9880
+  label: 華嚴懸談會玄記卷第二十九
+  type: juan
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6e0120_X_030-juan-start
+    span:
+    - body
+    - 0
+    - 10045
+  label: 華嚴懸談會玄記卷第三十
+  type: juan
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6e0120_X_031-juan-start
+    span:
+    - body
+    - 0
+    - 10459
+  label: 華嚴懸談會玄記卷第三十一
+  type: juan
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6e0120_X_032-juan-start
+    span:
+    - body
+    - 0
+    - 10469
+  label: 華嚴懸談會玄記卷第三十二
+  type: juan
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6e0120_X_033-juan-start
+    span:
+    - body
+    - 0
+    - 11964
+  label: 華嚴懸談會玄記卷第三十三
+  type: juan
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6e0120_X_034-juan-start
+    span:
+    - body
+    - 0
+    - 12791
+  label: 華嚴懸談會玄記卷第三十四
+  type: juan
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6e0120_X_035-juan-start
+    span:
+    - body
+    - 0
+    - 13774
+  label: 華嚴懸談會玄記卷第三十五
+  type: juan
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6e0120_X_036-juan-start
+    span:
+    - body
+    - 0
+    - 8712
+  label: 華嚴懸談會玄記卷第三十六
+  type: juan
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6e0120_X_037-juan-start
+    span:
+    - body
+    - 0
+    - 16741
+  label: 華嚴懸談會玄記卷第三十七
+  type: juan
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6e0120_X_038-juan-start
+    span:
+    - body
+    - 0
+    - 15221
+  label: 華嚴懸談會玄記卷第三十八
+  type: juan
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6e0120_X_039-juan-start
+    span:
+    - body
+    - 0
+    - 13497
+  label: 華嚴懸談會玄記卷第三十九
+  type: juan
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6e0120_X_040-juan-start
+    span:
+    - body
+    - 0
+    - 11513
+  label: 華嚴懸談會玄記卷第四十
+  type: juan
+  level: 1
+hash: sha256:e8e380d02768358f89bf7dcc12370727c00fcb4bf871af9bfe35ac02761ed020
